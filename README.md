@@ -1,16 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# CareSense 🏥 CareSense is an **AI-powered Healthcare Symptom Checker** designed to help users understand potential health conditions by analyzing their reported symptoms. It aims to make **healthcare insights more accessible**, providing guidance before visiting a doctor. --- ## 🚀 Features - 🤖 **AI Symptom Checker** – Users can input symptoms and receive possible condition predictions. - 📊 **Health Insights Dashboard** – Displays results with clear charts and explanations. - 🔒 **Secure Data Handling** – User information is handled with privacy-focused design. - 🌐 **User-Friendly Interface** – Clean, responsive UI for desktop and mobile. - 🧠 **Smart Recommendations** – Suggests next steps (e.g., consult doctor, lifestyle advice). --- ## 🛠️ Tech Stack - **Frontend:** React.js, Tailwind CSS - **Backend:** Python (Flask/FastAPI) - **Database:** MySQL - **AI/ML:** Symptom-to-condition prediction models - **Version Control:** Git + GitHub
