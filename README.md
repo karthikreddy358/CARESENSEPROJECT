@@ -3,12 +3,15 @@ CareSense is an **AI-powered Healthcare Symptom Checker**
 designed to help users understand potential health conditions by analyzing their reported symptoms. 
 It aims to make **healthcare insights more accessible**, providing guidance before visiting a doctor.
 
+
+
 🚀 Features - 🤖 
 **AI Symptom Checker** – Users can input symptoms and receive possible condition predictions. 
 📊 **Health Insights Dashboard** – Displays results with clear charts and explanations. 
 🔒 **Secure Data Handling** – User information is handled with privacy-focused design.
 🌐 **User-Friendly Interface** – Clean, responsive UI for desktop and mobile.
 🧠 **Smart Recommendations** – Suggests next steps (e.g., consult doctor, lifestyle advice). 
+
 
 🛠️ Tech Stack - 
 **Frontend:** React.js, Tailwind CSS 
